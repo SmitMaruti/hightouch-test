@@ -1,0 +1,8 @@
+name: google sheet test
+source: sheet-source
+type: raw_sql
+dbtModel: null
+rawSql: select * from Sheet1
+tableName: ''
+isSchema: false
+primaryKey: id
