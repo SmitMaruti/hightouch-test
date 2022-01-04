@@ -1,0 +1,8 @@
+name: organisations
+source: demodatabase-53
+type: raw_sql
+dbtModel: null
+rawSql: SELECT * FROM organizations
+tableName: ''
+isSchema: false
+primaryKey: id
