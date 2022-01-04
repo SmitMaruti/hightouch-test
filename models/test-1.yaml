@@ -1,0 +1,8 @@
+name: test 1
+source: demodatabase-53
+type: raw_sql
+dbtModel: null
+rawSql: select * from organizations where id = 1
+tableName: ''
+isSchema: false
+primaryKey: id
