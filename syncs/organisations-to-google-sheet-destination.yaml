@@ -1,0 +1,11 @@
+model: organisations
+destination: google-sheet-destination
+config:
+  url: >-
+    https://docs.google.com/spreadsheets/d/1cMnOaemMbuNF6SnU3-yLM4pzIuGpS_sX55Lvfgj4x2U/edit?usp=drivesdk
+  name: Hightouch test
+  sheetName: Sheet1
+  spreadsheetId: 1cMnOaemMbuNF6SnU3-yLM4pzIuGpS_sX55Lvfgj4x2U
+schedule:
+  type: manual
+schedulePaused: false
