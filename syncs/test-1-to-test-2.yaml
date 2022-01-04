@@ -1,0 +1,8 @@
+model: test-1
+destination: test
+config:
+  mappings: []
+  autoSyncColumns: true
+schedule:
+  type: manual
+schedulePaused: false
