@@ -1,0 +1,8 @@
+name: aa
+source: postgres
+type: raw_sql
+dbtModel: null
+rawSql: SELECT * FROM "sd_stage"."sd__tiktok_social__tiktok_demo__user_info"
+tableName: ''
+isSchema: false
+primaryKey: id
